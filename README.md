@@ -24,12 +24,5 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 - 💼 **LinkedIn:** Laura Letícia (https://www.linkedin.com/in/laura-let%C3%ADcia-4a29b181/)
